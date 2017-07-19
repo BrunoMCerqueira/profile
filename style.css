@@ -1,0 +1,87 @@
+/* Here goes your CSS */
+body {
+  background: #2F4F4F ;
+  font-family: 'Comic Sans MS', sans-serif ;
+  color: #2F4F4F ;
+  font-size: 13 ;
+  line-height: 1.1;
+}
+
+h2, h3 {
+  font-family: 'Comic Sans MS', sans-serif ;
+  color: #2F4F4F ;
+  font-size: 20 ;
+  line-height: 0.7;
+}
+
+h1 {
+  font-family: 'Comic Sans MS', sans-serif ;
+  font-size: 20 ;
+  line-height: 0.7;
+
+  margin: 0px 7px 20px 0px;
+  padding: 4px;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: #CD5C5C;
+
+  font-size: 18;
+}
+
+.container {
+  width: 500px ;
+  margin: 0 auto ;
+}
+
+.container img {
+
+  max-width: 300px ;
+  max-height: 200px ;
+  width: auto ;
+  height: auto ;
+}
+
+.card {
+  background: #F8F8FF ;
+  border-radius: 15px;
+  box-shadow: 8px, 8px, 10px rgba(0, 0, 0, 1.2);
+  padding: 5px;
+  margin: 2px;
+}
+
+#foto_inicial {
+  margin: 0px 100px 0px 100px;
+  border-radius: 70%;
+  }
+
+#apresentação {
+  text-align: center ;
+  margin: 0px 110px 0px 100px ;
+  }
+
+.table img {
+  width: 200px ;
+  margin: 0 auto ;
+}
+
+li {
+  font-size: 21 ;
+  display: inline-block ;
+  padding: 0px 10px 0px 0px;
+}
+
+
+
+.lista {
+  color: #F8F8FF ;
+  margin: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 22;
+}
